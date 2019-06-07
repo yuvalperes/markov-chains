@@ -1,7 +1,6 @@
 # markov-chains 
 Markov Chains and Mixing Times, by David Levin and Yuval Peres, with contributions by Elizabeth Wilmer. American Mathematical Society, second revised edition, 2017.
 
-![Book Cover](https://github.com/yuvalperes/markov-chains/blob/master/mcmt_cover_photo.jpg)
 
 <div style="float: left">
     ![Book Cover](https://github.com/yuvalperes/markov-chains/blob/master/mcmt_cover_photo.jpg)
